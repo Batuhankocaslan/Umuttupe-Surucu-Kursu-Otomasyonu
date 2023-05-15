@@ -3,7 +3,7 @@ Driver course automation with admin login, instructor and student addition
 
 # API
  
-style - (Object, Array) - Style object or array of style objects
+style - (Object, Array) - Style object or array of style objects /n
 containerStyle - (Object) - Style object for styling navbar container
 tintColor - (String) - NavigationBar's tint color
 statusBar - (Object):
